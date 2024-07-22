@@ -4,7 +4,7 @@ Jungleboys is an online multiplayer 3-dimensional fighting game. Players choose 
 
 
 
-###Items
+### Items
 
 - Knives: Weapon to be thrown or used in melee attacks
 - Medkits: Instantly heal to 100%
