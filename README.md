@@ -10,3 +10,7 @@ Jungleboys is an online multiplayer 3-dimensional fighting game. Players choose 
 - Medkits: Instantly heal to 100%
 - Stimulants: Stamina is instantly set to 100%. Player has unlimited stamina and increased sprint speed for 10 seconds
 - Cigarettes: Doubles melee damage dealt for 10 seconds.
+
+
+
+***Note: Please keep in mind the videos attached have been compressed to allign with upload formats***
