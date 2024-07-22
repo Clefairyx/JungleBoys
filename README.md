@@ -13,4 +13,4 @@ Jungleboys is an online multiplayer 3-dimensional fighting game. Players choose 
 
 
 
-***Note: Please keep in mind the videos attached have been compressed to allign with upload formats. They must be downloaded to view***
+***Note: Please keep in mind the mp4 files attached have been compressed to allign with upload formats. They must be downloaded to view***
