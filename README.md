@@ -12,5 +12,5 @@ Jungleboys is an online multiplayer 3-dimensional fighting game. Players choose 
 - Cigarette: Doubles melee damage dealt for 10 seconds.
 - Self-Heal: Revives self when down
 
-### Development Clip: 
+### Gameplay Clips (development): 
 https://youtu.be/hy0dxHMgL9I?si=-3mXQMuL0mCydmGS
