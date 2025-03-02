@@ -13,4 +13,4 @@ Jungleboys is an online multiplayer 3-dimensional fighting game. Players choose 
 - Self-Heal: Revives self when down
 
 ### Gameplay Clip: 
-https://youtu.be/tlpckxchCfs?si=qh5tA9nJC0DadCeI
+https://youtu.be/hy0dxHMgL9I?si=-3mXQMuL0mCydmGS
