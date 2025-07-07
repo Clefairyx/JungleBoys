@@ -3,6 +3,9 @@
 ### Store Page:
 https://store.steampowered.com/app/3519810/JungleBoys/
 
+### Gameplay Trailer:
+https://www.youtube.com/watch?v=P2Z6F_6x84Y
+
 Jungleboys is a multiplayer 3-dimensional fighting game. Players choose from a selection of 8 characters in the pre-game lobby and then enter the jungle map. Players can collect items from chests, and increase health and stamina by picking apples from bushes. The objective is to find other player and engage in combat. When one player remains the game is over. Players can also be revived by other players or a self-revive item. JungleBoys is coming soon to Steam and is in development by myself using Unreal Engine 5.3. Local splitscreen will be supported with Xbox controllers. 
 
 
